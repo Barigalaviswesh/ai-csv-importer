@@ -96,7 +96,7 @@ npm run dev
 
 The frontend will run on `http://localhost:3000`
 
-## 📖 Usage
+##  Usage
 
 ### 1. Upload CSV
 
@@ -145,7 +145,7 @@ The AI extracts the following fields:
 | possession_time | Property possession time |
 | description | Additional description |
 
-## 🧪 Sample CSV Formats
+##  Sample CSV Formats
 
 ### Facebook Lead Export
 ```csv
@@ -198,7 +198,7 @@ Edit `frontend/lib/api-client.js` to change API endpoint:
 const apiClient = new ApiClient(process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3001');
 ```
 
-## 🚢 Deployment
+##  Deployment
 
 ### Docker (Recommended)
 
@@ -225,7 +225,7 @@ docker-compose down
 3. Set environment variable: `NEXT_PUBLIC_API_URL` (your backend URL)
 4. Deploy
 
-### Backend (Railway/Render)
+### Backend (Render)
 
 1. Push code to GitHub
 2. Import project in Railway/Render
