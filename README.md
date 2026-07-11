@@ -2,7 +2,7 @@
 
 An intelligent CSV import system that automatically maps columns from any CSV format to GrowEasy CRM fields using AI. Supports imports from Facebook Leads, Google Ads, Excel sheets, Real Estate CRMs, and more.
 
-## 🚀 Features
+##  Features
 
 - **Smart AI Mapping**: Automatically maps CSV columns to CRM fields using Google Gemini AI
 - **Universal CSV Support**: Works with any CSV format, column names, or structure
@@ -16,14 +16,14 @@ An intelligent CSV import system that automatically maps columns from any CSV fo
 - **JSON Export**: Download processed data in JSON or CSV format
 - **Docker Support**: Containerized deployment with Docker Compose
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Node.js 18+ and npm
 - Google Gemini API key
 - Git
 - Docker (optional, for containerized deployment)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - Next.js 14 (App Router)
@@ -39,7 +39,7 @@ An intelligent CSV import system that automatically maps columns from any CSV fo
 - Multer (file uploads)
 - Zod (validation)
 
-## 📦 Installation
+##  Installation
 
 ### 1. Clone the Repository
 
@@ -76,7 +76,7 @@ Create a `.env.local` file in the frontend directory:
 NEXT_PUBLIC_API_URL=http://localhost:3001
 ```
 
-## 🏃 Running the Application
+##  Running the Application
 
 ### Start Backend
 
@@ -123,7 +123,7 @@ The frontend will run on `http://localhost:3000`
 - Download processed data as CSV or JSON
 - Filter by imported/skipped records
 
-## 📊 CRM Field Mapping
+##  CRM Field Mapping
 
 The AI extracts the following fields:
 
@@ -235,7 +235,7 @@ docker-compose down
    - `GEMINI_MODEL=gemini-1.5-pro`
 4. Deploy
 
-## 🧪 Testing
+##  Testing
 
 ### Run Backend Tests
 
@@ -263,7 +263,7 @@ curl -X POST -F "file=@samples/facebook_leads.csv" http://localhost:3001/api/csv
 curl -X POST -F "file=@samples/google_ads.csv" http://localhost:3001/api/csv/upload
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 grow-easy/
@@ -284,7 +284,7 @@ grow-easy/
 └── README.md                # This file
 ```
 
-## 🔒 Security
+## Security
 
 - Files are deleted immediately after processing
 - No persistent storage of user data
@@ -293,7 +293,7 @@ grow-easy/
 - Rate limiting to prevent abuse
 - CORS configured for allowed origins
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Issue: "File too large" error
 
@@ -337,7 +337,7 @@ cors({
 - **Max File Size**: 50MB (configurable)
 - **Max Records**: 10,000 per import
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -345,17 +345,7 @@ cors({
 4. Push to the branch
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
-## 🆘 Support
-
-For issues and questions:
-- Open an issue on GitHub
-- Contact: support@groweasy.com
-
-## 🎯 Roadmap
+##  Roadmap
 
 - [ ] Support for Excel files (.xlsx)
 - [ ] Save mapping configurations
@@ -384,7 +374,7 @@ For issues and questions:
 - ✅ Comprehensive sample CSV files
 - ✅ Complete documentation (PRD, spec, README)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Google for Gemini AI API
 - Next.js team for the amazing framework
