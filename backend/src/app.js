@@ -7,7 +7,7 @@ const errorHandler = require('./middleware/error.middleware');
 const app = express();
 
 app.use(cors({
-  origin: ['http://localhost:3000', 'http://localhost:3001', 'http://localhost:3002', 'http://localhost:3003'],
+  origin: ['http://localhost:3000', 'http://localhost:3001', 'http://localhost:3002', 'http://localhost:3003', 'https://ai-csv-importer-gold.vercel.app'],
   credentials: true
 }));
 app.use(express.json());
