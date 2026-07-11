@@ -44,8 +44,8 @@ An intelligent CSV import system that automatically maps columns from any CSV fo
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd grow-easy
+git clone https://github.com/Barigalaviswesh/ai-csv-importer.git
+cd ai-csv-importer
 ```
 
 ### 2. Backend Setup
@@ -60,7 +60,7 @@ Create a `.env` file in the backend directory:
 ```env
 PORT=3001
 GEMINI_API_KEY=your_gemini_api_key_here
-GEMINI_MODEL=gemini-1.5-pro
+GEMINI_MODEL=gemini-1.5-flash
 ```
 
 ### 3. Frontend Setup
