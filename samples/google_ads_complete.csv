@@ -1,0 +1,7 @@
+Customer Name,Email Address,Phone Number,Conversion Time,Company,Campaign,City,State,Country,Lead Quality,Remarks,Status
+Amit Kumar,amit.kumar@example.com,+919876543216,2026-07-11 08:30:00,India Tech,Search Ads,Mumbai,Maharashtra,India,High,Immediate requirement. Budget approved,GOOD_LEAD_FOLLOW_UP
+Sneha Reddy,sneha.reddy@example.com,+919876543217,2026-07-11 09:45:00,Software Solutions,Display Ads,Bangalore,Karnataka,India,Medium,Comparing with competitors. Need better pricing,DID_NOT_CONNECT
+Vikram Sharma,vikram.sharma@example.com,+919876543218,2026-07-11 11:15:00,Cloud Services,Search Ads,Delhi,Delhi,India,High,Contract signed. Onboarding in progress,SALE_DONE
+Anjali Patel,anjali.patel@example.com,+919876543219,2026-07-11 13:00:00,Data Analytics,Display Ads,Ahmedabad,Gujarat,India,Low,Budget constraints. Not ready now,BAD_LEAD
+Rahul Singh,rahul.singh@example.com,+919876543220,2026-07-11 14:30:00,Smart Solutions,Search Ads,Pune,Maharashtra,India,High,Requested technical demo. Very interested,GOOD_LEAD_FOLLOW_UP
+Priya Sharma,priya.sharma@example.com,+919876543221,2026-07-11 16:00:00,Digital Agency,Display Ads,Jaipur,Rajasthan,India,Medium,Need to discuss with team. Will revert by Friday,DID_NOT_CONNECT

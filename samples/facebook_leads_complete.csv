@@ -1,0 +1,7 @@
+Full Name,Email,Phone Number,Lead Created Time,Company Name,City,State,Country,Interested In,Notes,Lead Status
+John Smith,john.smith@company.com,+919876543210,2026-07-11 09:30:00,ABC Corporation,Mumbai,Maharashtra,India,Premium Plan,Very interested. Wants demo tomorrow,GOOD_LEAD_FOLLOW_UP
+Jane Doe,jane.doe@startup.io,+919876543211,2026-07-11 10:15:00,XYZ Startup,Bangalore,Karnataka,India,Standard Plan,Budget approved. Ready to proceed,SALE_DONE
+Robert Johnson,robert.j@enterprise.com,+919876543212,2026-07-11 11:00:00,Enterprise Ltd,Delhi,Delhi,India,Enterprise Plan,Need approval from management. Will update next week,DID_NOT_CONNECT
+Emily Williams,emily.w@tech.co,+919876543213,2026-07-11 12:30:00,Tech Company,Pune,Maharashtra,India,Custom Solution,Looking for custom features. Pricing discussion ongoing,GOOD_LEAD_FOLLOW_UP
+Michael Brown,michael.b@realestate.com,+919876543214,2026-07-11 14:00:00,Real Estate Pro,Hyderabad,Telangana,India,Standard Plan,Not interested. Found cheaper alternative,BAD_LEAD
+Sarah Davis,sarah.d@consulting.com,+919876543215,2026-07-11 15:45:00,Consulting Group,Chennai,Tamil Nadu,India,Premium Plan,Decision maker on vacation. Will follow up after 2 weeks,DID_NOT_CONNECT
