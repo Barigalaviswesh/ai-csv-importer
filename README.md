@@ -167,7 +167,7 @@ Rajesh Patel,9876543212,rajesh@example.com,Delhi,Delhi
 
 All formats will be automatically mapped to the CRM schema.
 
-## 🔧 Configuration
+##  Configuration
 
 ### Backend Configuration
 
